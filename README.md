@@ -16,3 +16,7 @@ Preparar la estructura inicial de un proyecto utilizando python, Git y GitHub
 ##Autor
 
 Cristian Isaac de La Cruz Mandujano 
+
+##Estado del proyecto 
+
+Proyecto en etapa inicial
